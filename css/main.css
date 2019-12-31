@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0
+}
+body{
+    height: 2421px;
+    background-color: #ffff
+}
+/**Start Header**/
+header{
+    background: url('../imges/img-header.png');
+    background-size: cover;
+    height: 800px;
+    width: 100%
+}
+nav{
+    background-color: white;
+    height: 103px
+}
+nav .nav-logo{
+    margin: 35px 0 20px 0
+}
+nav a{
+   float: right;
+    padding-right: 10px;
+      color: #a1a1a1
+}
+nav .nav-links{
+    padding: 52px 0 40px 0;
+    color: #a1a1a1;
+    direction: ltr
+}
+header section > div{
+    margin-top: 400px;
+}
+header section > div h1{
+    font-size: 62px;
+    color: white;
+    font-weight: bold
+}
+header section form{
+    height: 454px;
+    width: 411px;
+    background-color: white;
+    margin: -38% 0 0 189px;
+    font-weight: bold;
+    color: #d182a1;
+    padding: 0 36px 30px 36px;
+    float: right
+    
+}
+header section form h3{
+    color: #d182a1;
+    font-size: 23px;
+padding-top: 10px;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+header section form input{
+    width: 340px;
+    height: 50px;
+    margin-bottom:20px
+}
+header section form input[type="submit"]{
+background-color: #d182a1;
+    color: white;
+    font-size: 26px    
+}
+
+.header-pragraph{
+    margin-top: 85px;
+    margin-bottom: 90px
+}
+.header-heading{
+    padding-top: 42px;
+    padding-left: 15px;
+}
+/**Start help**/
+.help{
+    background-color: #eff5f4;
+    padding-top: 31px;
+    padding-bottom: 70px;
+    text-align: center
+}
+.help h3{
+font-size: 41px
+}
+
+.help p{
+color: #666666;
+font-size: 16px
+}
+.the-dream{
+  height:  514px;
+}
+.the-dream h2{
+    color: #cc6699;
+    margin-bottom: 40px;
+    padding-top: 57px;
+    font-size: 26px;
+}
+.the-dream p{
+   color: #666666
+}
+.the-dream button{
+   width: 395px;
+    height: 70px;
+    background-color: #ffffff;
+    margin-top: 24px;
+    font-size: 28px;
+    color: #666666;
+    border: 1px solid #b7b7b7;
+
+}
+.the-dream .the-dream-img{
+   float: right;
+    width: 50%
+}
+.the-dream .the-dream-img img{
+width: 760px;
+}
+.the-dream .the-dream-heading{
+   padding: 0 40px 0 40px 
+}
+
+
+footer{
+    height: 314px;
+    background-color: #666666;
+    color: #ffffff;
+    padding: 120px 0 120px 0
+}
+footer h3{
+font-size: 26px
+}
+footer a{
+    color: #ffffff;
+    margin-right: 10px;
+}
+footer .icone{
+    direction: rtl;
+    margin-bottom: 35px
+}
+footer div i {
+    margin-right: 15px;
+}
+footer div .last-icone{
+    margin-right: 0
+}
